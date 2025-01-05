@@ -46,19 +46,6 @@
 
 ---
 
-## Usage
-
-1. **Run the Jupyter Notebooks**:
-   - Explore and test the MST algorithm and portfolio analysis.
-
-2. **Run the Python Scripts**:
-   - Preprocess data, compute the correlation matrix, and construct the MST.
-
-3. **Visualize Results**:
-   - Generate plots for daily volatility, cumulative performance, and portfolio comparisons.
-
----
-
 ## Acknowledgements
 
 Special thanks to the **IF2120 Discrete Mathematics** course at ITB, and Mr. Mr. Dr. Ir. Rinaldi Munir, M.T., as the lecturer for inspiring this research and providing valuable guidance.
