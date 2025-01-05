@@ -39,10 +39,10 @@
 
 2. Install dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install pandas numpy matplotlib seaborn networkx
    ```
 
-3. Ensure you have the historical stock data in the `data/` directory.
+3. Ensure you have the historical stock data in the `src/database` directory.
 
 ---
 
