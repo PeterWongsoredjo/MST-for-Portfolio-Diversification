@@ -4,9 +4,9 @@
 
 ## Profile
 
-Name: Peter Wongsoredjo
-NIM: 13523039
-Paper: Applying Minimum Spanning Tree for Portfolio Diversification and Market Analysis in the LQ45 Index
+- Name: Peter Wongsoredjo
+- NIM: 13523039
+- Paper: Applying Minimum Spanning Tree for Portfolio Diversification and Market Analysis in the LQ45 Index
 
 ---
 
