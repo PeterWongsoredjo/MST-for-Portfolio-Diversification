@@ -48,4 +48,4 @@
 
 ## Acknowledgements
 
-Special thanks to the **IF2120 Discrete Mathematics** course at ITB, and Mr. Mr. Dr. Ir. Rinaldi Munir, M.T., as the lecturer for inspiring this research and providing valuable guidance.
+Special thanks to the **IF1220 Discrete Mathematics** course at ITB, and Mr. Mr. Dr. Ir. Rinaldi Munir, M.T., as the lecturer for inspiring this research and providing valuable guidance.
